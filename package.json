@@ -22,5 +22,8 @@
     "express-handlebars": "^3.0.2",
     "mysql": "^2.16.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines": {
+    "node": "10.x"
+  }
 }
